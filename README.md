@@ -2,6 +2,7 @@
 
 ## ##アプリ
 ・長編小説用のオーディオブック変換アプリ「日本語Audiobook Maker」 Windows版リリースしました。(2026/6/27)
+　[https://github.com/yamamori-yamori/-Audiobook-Maker]
 
 ## ##小説（コミカライズ）
 ・ろりたけんじ名での小説のコミカライズ『異世界転移した俺は、Hのたびにガチャを引く！～もってくれ、俺の精力！～』　講談社ヤンマガWebにて掲載中です！　→　https://x.gd/9zpUd 
