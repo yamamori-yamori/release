@@ -5,6 +5,10 @@
 https://yamamori-yamori.github.io/mypage/  
   
 ## ##アプリ
+・WEBベースで小説の差分比較ができるアプリ「novdiff by やまもりやもり」リリースしました！(2026/7/20)  
+  [https://github.com/yamamori-yamori/novdiff]
+
+## ##アプリ
 ・WEBベースで漫画の編集ができるアプリ「マンガページエディタ by やまもりやもり」リリースしました！(2026/7/18)  
 　[https://github.com/yamamori-yamori/manga-edit]
   
