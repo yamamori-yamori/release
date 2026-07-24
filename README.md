@@ -5,6 +5,10 @@
 https://yamamori-yamori.github.io/mypage/  
   
 ## ##アプリ
+・WEBベースで公募用に小説を縦書きで原稿用紙でチェックできるアプリ「縦view by やまもりやもり」リリースしました！(2026/7/24)  
+  [https://github.com/yamamori-yamori/tateview]
+
+## ##アプリ
 ・WEBベースで小説の差分比較ができるアプリ「novdiff by やまもりやもり」リリースしました！(2026/7/20)  
   [https://github.com/yamamori-yamori/novdiff]
 
