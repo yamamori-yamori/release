@@ -5,6 +5,10 @@
 https://yamamori-yamori.github.io/mypage/  
   
 ## ##アプリ
+・WEBベースで左に資料を置いて右で小説を書けるテキストエディタ「novedit」をリリースしました！(2026/8/1)  
+  [https://github.com/yamamori-yamori/novedit]
+
+## ##アプリ
 ・WEBベースで公募用に小説を縦書きで原稿用紙でチェックできるアプリ「縦view by やまもりやもり」リリースしました！(2026/7/24)  
   [https://github.com/yamamori-yamori/tateview]
 
